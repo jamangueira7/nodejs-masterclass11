@@ -52,9 +52,9 @@ Esse projeto foi feito acompanhando a video aula do Youtube, [clique aqui](https
 ###### Retornar todos os dados.
 http://localhost:3000
 ###### Adicionar.
-http://localhost:3000/?name=teste&url=https://teste1.com.br
+http://localhost:3000?name=teste&url=https://teste1.com.br
 ###### Escluir.
-http://localhost:3000/?name=teste&url=https://teste1.com.br&del=1
+http://localhost:3000?name=teste&url=https://teste1.com.br&del=1
 
 ## 🤔 Como contribuir
 
